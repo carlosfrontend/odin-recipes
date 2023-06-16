@@ -1,9 +1,7 @@
 # Odin-Recipes
 Recipes Web Page | The Odin Project
 
-[Go to Preview]("https://carlosfrontend.github.io/odin-recipes/") :point_left:
-
-[Go to Code](https://github.com/carlosfrontend/odin-recipes) :point_left:
+[Go to Preview]("https://carlosfrontend.github.io/odin-recipes/") :point_left: | [Go to Code](https://github.com/carlosfrontend/odin-recipes) :point_left:
 
 In this project, a basic template in **HTML language** has been used to create several pages with recipes.
 
