@@ -10,7 +10,9 @@ The following concepts of this language have been used for its development:
 * Boilerplate HTML
 * Use of headings tags ```h1, h2, h3```
 * Insert images with image tag ``` <img src="./images/sample.jpeg" alt="My sample image"/>```
-* Working with links tags ``` <a href="./relativePath.html">Link</a>```
+* Working with links tags:
+    * With relative paths ```<a href="./recipes/guisantes.html">Peas with Ham</a>```
+    * With absolute paths ```<a href="/odin-recipes">Back</a>```
 * Use of lists:
     * Unordered lists:
         ```
