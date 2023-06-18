@@ -1,0 +1,76 @@
+h2 {
+    font-size: 35px;
+    text-align: center;
+    font-weight: 800;
+    margin: 20px 0;
+}
+h3 {
+    font-size: 25px;
+    text-align: center;
+    font-weight: 600;
+    margin: 35px 0;
+}
+
+p {
+    margin: 0 auto;
+    text-align: justify;
+    font-size: 20px;
+    line-height: 1.6;
+}
+
+.ingredients-list {
+    background: #8a3244;
+    margin: 0 auto;
+    border-radius: 0px 20px 20px 0px;
+}
+
+.ingredients-list  li {
+    margin: 0;
+    padding: 25px 30px;
+    text-align: left;
+    font-weight: 700;
+    font-size: 20px;
+    color:white;
+}
+
+p, .ingredients-list, ol, .steps-list {
+    width: 333px;
+}
+ol {
+    display: block;
+    margin: 0 auto;
+    padding: 35px;
+    background-color: darkslategrey;
+    border-radius: 20px 0px ;
+}
+
+li::marker {
+    color:yellow;
+}
+
+.steps-list li {
+    margin: 10px auto;
+    color: white;
+    font-weight: 200;
+    line-height: 1.7;
+    font-size: 22px;
+}
+
+a.back-button {
+    display: block;
+    width: 150px;
+    margin: 35px auto;
+    text-align: center;
+    font-size: 28px;
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    background-color: #8a3244;
+    border-radius: 8px;
+    padding: 10px;
+}
+
+a.back-button:hover {
+    color:white;
+    background-color: black;
+}
