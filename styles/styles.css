@@ -2,6 +2,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    border: 1px solid red;
 }
 
 body {
@@ -11,12 +12,13 @@ body {
 
 #main-title {
     font-size: 50px;
-    color:#e6163f;
+    color: #e6163f;
     text-align: center;
-    margin-bottom: 30px;
-    margin-top: 20px;
     text-decoration: underline;
     font-style: italic;
+    width: fit-content;
+    margin: 20px auto;
+    padding: 8px 11px;
 }
 
 img {
@@ -28,15 +30,23 @@ img {
 }
 
 ul {
-   margin-top: 100px auto;
+   width: 408px;
+   margin: 30px auto;
    text-align: center;   
 }
 
 ul li {
     font-size: 25px;
     margin: 25px 0;
-    margin: 80px 15px;
+    margin: 52px auto;
     list-style-type: none;
+    height: auto;
+    padding: 22px;
+    width: 333px;
+}
+
+img, ul li a {
+    max-width: 333px;
 }
 
 ul li a { 
