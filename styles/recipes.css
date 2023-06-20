@@ -34,7 +34,7 @@ p {
 }
 
 p, .ingredients-list, ol, .steps-list {
-    width: 333px;
+    max-width: 333px;
 }
 ol {
     display: block;
