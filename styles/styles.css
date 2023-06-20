@@ -22,7 +22,7 @@ body {
 }
 
 img {
-    max-width: 333px;
+    width: 100%;
     height: auto;
     margin: 0 auto;
     display: block;
@@ -30,19 +30,18 @@ img {
 }
 
 ul {
-   width: 408px;
+   max-width: 408px;
    margin: 30px auto;
    text-align: center;   
 }
 
 ul li {
     font-size: 25px;
-    margin: 25px 0;
     margin: 52px auto;
     list-style-type: none;
     height: auto;
     padding: 22px;
-    width: 333px;
+    max-width: 333px;
 }
 
 img, ul li a {
