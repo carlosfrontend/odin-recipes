@@ -16,7 +16,7 @@ body {
     text-align: center;
     text-decoration: underline;
     font-style: italic;
-    width: fit-content;
+    max-width: fit-content;
     margin: 20px auto;
     padding: 8px 11px;
 }

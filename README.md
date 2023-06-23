@@ -1,5 +1,6 @@
 # Odin-Recipes
-Recipes Web Page | The Odin Project
+Recipes Web Page | The Odin Project |
+[Project: Recipes Foundations Course](https://www.theodinproject.com/lessons/foundations-recipes)
 
 [Go to Preview](https://carlosfrontend.github.io/odin-recipes/) :point_left:
 
